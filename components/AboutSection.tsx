@@ -30,17 +30,15 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Hosna and I am a{" "}
+              Hi, my name is Htet Oo Wai Yan and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software engineer
+              <span className="font-bold">{" driven"}</span> system engineer
               based in Los Angeles, CA.
             </p>
             <br />
             <p>
-              I graduated from California State University, Northridge in 2019
-              with a BS in Computer Engineering and have been working in the
-              field ever since.
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit. A vitae iste blanditiis necessitatibus aliquam animi repellat rem. Consectetur deserunt aliquid sit sed. Fuga, sequi tempora vitae pariatur eligendi eos animi!
             </p>
             <br />
             <p>
